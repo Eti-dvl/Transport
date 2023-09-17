@@ -1,0 +1,59 @@
+0
+27
+0 La_Defense 1 4
+1 Porte-Maillot 2 4
+2 CDG 3 4
+3 Troca 3 2
+4 Bir 4 2
+5 Franklin 4 4
+6 Champs-Elysees 5 4
+7 Grenelle 5 2
+8 Pasteur 6 2
+9 Concorde 6 4
+10 Louvre 7 4
+11 Etienne 8 5
+12 Chatelet 8 4
+13 Saint-Michel 8 3
+14 Montparnasse 7 2
+15 Vavin 8 1
+16 Raspail 9 2
+17 Denfert 10 2
+18 Hotel_de_ville 9 4
+19 Place_d'Italie 11 2
+20 Bastille 10 4
+21 Bercy 12 2
+22 Gare_de_Lyon 11 4
+23 Daumesnil 13 2
+24 Diderot 12 4
+25 Nation 13 4
+26 Chateau_de_Vincennes 14 4
+29
+0 0 1
+1 1 2
+2 2 3
+3 3 4
+4 2 5
+5 4 7
+6 5 6
+7 7 8
+8 6 9
+9 8 14
+10 9 10
+11 10 12
+12 11 12
+13 12 13
+14 13 14
+15 14 16
+16 14 15
+17 15 16
+18 16 17
+19 12 18
+20 17 19
+21 18 20
+22 19 21
+23 20 22
+24 21 23
+25 22 24
+26 24 25
+27 23 25
+28 25 26

@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1587999757 source:c:\users\etien\onedrive\bureau\travail\informatique\piscine\arrete.cpp
+	"reseau.h"
+
+1588072755 c:\users\etien\onedrive\bureau\travail\informatique\piscine\reseau.h
+	<vector>
+	<iostream>
+	<fstream>
+
+1588071135 source:c:\users\etien\onedrive\bureau\travail\informatique\piscine\main.cpp
+	"reseau.h"
+	"svg.h"
+	"couleur.h"
+	"util.h"
+
+1588022963 source:c:\users\etien\onedrive\bureau\travail\informatique\piscine\fichier.cpp
+	"reseau.h"
+
+1587999865 source:c:\users\etien\onedrive\bureau\travail\informatique\piscine\sommet.cpp
+	"reseau.h"
+
+1588072644 source:c:\users\etien\onedrive\bureau\travail\informatique\piscine\afficher.cpp
+	"reseau.h"
+	"svg.h"
+	"couleur.h"
+	"util.h"
+
+1588016201 source:c:\users\etien\onedrive\bureau\travail\informatique\piscine\svg.cpp
+	"svg.h"
+	<iostream>
+	<sstream>
+
+1588023263 c:\users\etien\onedrive\bureau\travail\informatique\piscine\svg.h
+	<string>
+	<fstream>
+	<set>
+
+1588017493 source:c:\users\etien\onedrive\bureau\travail\informatique\piscine\couleur.cpp
+	"couleur.h"
+	"svg.h"
+	"util.h"
+	<iostream>
+
+1588016360 c:\users\etien\onedrive\bureau\travail\informatique\piscine\couleur.h
+	<string>
+	<cstdint>
+
+1588017148 c:\users\etien\onedrive\bureau\travail\informatique\piscine\util.h
+	<string>
+
+1588017565 source:c:\users\etien\onedrive\bureau\travail\informatique\piscine\util.cpp
+	"util.h"
+	<random>
+	<ctime>
+	<iostream>
+	<streambuf>
+	<vector>
+	<cstdlib>
+	<cstdio>
+	<algorithm>
+	<cstring>
+	<iostream>
+	<thread>
+	"util.h"
+	<windows.h>
+
+1588072755 source:c:\users\etien\onedrive\bureau\travail\informatique\piscine\graphe.cpp
+	"reseau.h"
+
